@@ -1,0 +1,12 @@
+New York, South Dakota
+South Dakota, Texas
+Texas, Oklahoma
+Oklahoma, New York
+Puerto Rico, South Carolina
+South Dakota, Puerto Rico
+Texas, South Dakota
+New York, South Dakota
+Utah, Oklahoma
+Oklahoma, Pennsylvania
+South Dakota, Puerto Rico
+Texas, Utah

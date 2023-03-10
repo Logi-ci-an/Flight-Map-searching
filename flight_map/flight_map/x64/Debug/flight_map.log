@@ -1,0 +1,6 @@
+﻿  Master.cpp
+C:\Users\Ahmed kamal\Github\Flight_map\Flight-Map-searching\flight_map\flight_map\FileManager.h(19,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+C:\Users\Ahmed kamal\Github\Flight_map\Flight-Map-searching\flight_map\flight_map\FileManager.h(19,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  flight_map.vcxproj -> C:\Users\Ahmed kamal\Github\Flight_map\Flight-Map-searching\flight_map\x64\Debug\flight_map.exe
